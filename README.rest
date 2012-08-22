@@ -1,0 +1,14 @@
+I made this webapp in Ubuntu, for you. 
+
+you need open two instances of the terminal
+
+# how to
+
+- $ mongod 
+- $ ruby app.rb
+- visit localhost:port
+
+
+
+
+
